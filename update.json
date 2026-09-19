@@ -2,7 +2,7 @@
   "version": 8,
   "channel": "stable",
   "published": true,
-  "download_url": "https://github.com/nguyenvietduc-cnc/NVD-CNC-TAO-VACH/releases/download/v8.0.0/NVD-CNC-TAO-VACH%208.rbz",
+"download_url": "https://github.com/nguyenvietduc-cnc/NVD-CNC-TAO-VACH/releases/download/v8.0.0/NVD-CNC-TAO-VACH8.rbz",
   "sha256": "23f6221d0ba5ebd5726526f3ab82214b18bc71001b03cbb9285459b55beaed6f",
   "notes": "Bản chính thức NVD-CNC-TAO-VACH 8 - tích hợp tự động cập nhật."
 }
