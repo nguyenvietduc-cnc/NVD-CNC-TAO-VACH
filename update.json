@@ -1,8 +1,8 @@
 {
-  "version": 6,
+  "version": 8,
   "channel": "stable",
   "published": true,
-"download_url": "https://github.com/nguyenvietduc-cnc/NVD-CNC-TAO-VACH/releases/download/v6.0.0/NVD-CNC-TAO-VACH20TEST.rbz",
-  "sha256": "deaae16eaab6ab567b337fe7e6b80c7c0ebce8c07154172684201765e6a50cdb",
-  "notes": "Bản 6 TEST - kiểm tra hệ thống cập nhật từ GitHub."
+  "download_url": "https://github.com/nguyenvietduc-cnc/NVD-CNC-TAO-VACH/releases/download/v8.0.0/NVD-CNC-TAO-VACH20TEST.rbz",
+  "sha256": "b362f9961085f364f371c592dd3759b5b138ad786a7473aba8fe0f8d95abd033",
+  "notes": "Bản 8 TEST - kiểm tra thông báo cập nhật tự động từ GitHub."
 }
