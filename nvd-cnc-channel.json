@@ -1,8 +1,8 @@
 {
   "published": true,
   "channel": "stable",
-  "version": "2.0.1",
-  "download_url": "https://github.com/nguyenvietduc-cnc/NVD-CNC-TAO-VACH/releases/download/core-v2.0.1/NVD-CNC-CORE-2.0.1.rbz",
-  "sha256": "a90db522a0cdce16476523b80d620d903b6eb48571e6c81a6405a6e926e46643",
-  "notes": "Bản NVD-CNC-CORE 2.0.1. Kiểm tra hệ thống cập nhật mới, tách riêng Update Center và chống cài đặt lặp."
+  "version": "20.10",
+  "download_url": "https://github.com/nguyenvietduc-cnc/NVD-CNC-TAO-VACH/releases/download/core-v20.10/NVD-CNC-20.10.rbz",
+  "sha256": "4eb39a5b55116ed9e43c6f6af9a93b9bd6c31ce1f4f19bdc36524fa496d5a2f7",
+  "notes": "NVD-CNC-20.10: tăng thời gian chờ HTTPS đăng nhập Key để tương thích tốt hơn với SketchUp 2024-2026; giữ nguyên chức năng tạo vách và giao diện."
 }
