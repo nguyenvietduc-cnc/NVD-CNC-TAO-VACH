@@ -1,8 +1,8 @@
 {
   "published": true,
   "channel": "stable",
-  "version": "1.10.3.1",
-  "download_url": "https://github.com/nguyenvietduc-cnc/NVD-CNC-TAO-VACH/releases/download/v1.10.3.1/NVD-CNC-1.10.3.1-STABLE-PACKAGE.rbz",
-  "sha256": "bdb0aab7223a374e9a00a07f033e3f502e64e5af6be948e7bbb0a7c55a4c7018",
-  "notes": "Bản NVD-CNC-1.10.3.1. Sửa vòng lặp cập nhật, chỉ cập nhật khi người dùng yêu cầu và không tự động cập nhật lại sau khi cài."
+  "version": "1.10.3.2",
+  "download_url": "https://github.com/nguyenvietduc-cnc/NVD-CNC-TAO-VACH/releases/download/v1.10.3.2/NVD-CNC-1.10.3.2-STABLE-PACKAGE.rbz",
+  "sha256": "c3498cea4f69795dd930aad3ffc364eccc96b4d6b509c9293a281930604fe324",
+  "notes": "Bản NVD-CNC-1.10.3.2. Sửa lỗi vòng lặp cập nhật, xử lý phiên bản 4 thành phần và không cài lại cùng một phiên bản."
 }
