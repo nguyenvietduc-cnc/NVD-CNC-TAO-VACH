@@ -1,8 +1,8 @@
 {
   "published": true,
   "channel": "stable",
-  "version": "203",
-  "download_url": "https://github.com/nguyenvietduc-cnc/NVD-CNC-TAO-VACH/releases/download/core-v203/NVD-CNC-203.rbz",
-  "sha256": "97a7469b77c7c959587837ec1d9b5da019f0b23569ef7005c2bca7f4f6b07cb2",
-  "notes": "NVD-CNC-203: lấy 202 làm bản gốc; giữ cơ chế lõi theo 20.19; preview bên phải 95×95/75×75; preview CHỌN HỌA TIẾT 55%."
+  "version": "205",
+  "download_url": "https://github.com/nguyenvietduc-cnc/NVD-CNC-TAO-VACH/releases/download/core-v205/NVD-CNC-205.rbz",
+  "sha256": "9529e56fe7797d2e967796430d8e4176ec19347a4dfa060fe62a69096eb6ce42",
+  "notes": "NVD-CNC-205: bản cập nhật từ NVD-CNC-203, giữ nguyên chức năng tạo vách CNC, giao diện và thư viện; bổ sung thông báo cập nhật tự động."
 }
