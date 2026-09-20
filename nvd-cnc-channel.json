@@ -1,8 +1,8 @@
 {
   "published": true,
   "channel": "stable",
-  "version": "20.19",
-  "download_url": "https://github.com/nguyenvietduc-cnc/NVD-CNC-TAO-VACH/releases/download/core-v20.19/NVD-CNC-20.19.rbz",
-  "sha256": "ab02e94dfbbb6b5bd638b8e7d8f53382bffa04d327b76d9ee2ab5c92037cf455",
-  "notes": "NVD-CNC-20.19: bản kiểm tra hệ thống Update Center; giữ nguyên chức năng tạo vách, Key, giao diện và thư viện."
+  "version": "203",
+  "download_url": "https://github.com/nguyenvietduc-cnc/NVD-CNC-TAO-VACH/releases/download/core-v203/NVD-CNC-203.rbz",
+  "sha256": "97a7469b77c7c959587837ec1d9b5da019f0b23569ef7005c2bca7f4f6b07cb2",
+  "notes": "NVD-CNC-203: lấy 202 làm bản gốc; giữ cơ chế lõi theo 20.19; preview bên phải 95×95/75×75; preview CHỌN HỌA TIẾT 55%."
 }
