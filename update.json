@@ -1,8 +1,8 @@
 {
   "published": true,
   "channel": "stable",
-  "version": "1.10.2",
-  "download_url": "https://github.com/nguyenvietduc-cnc/NVD-CNC-TAO-VACH/releases/download/v1.10.2/NVD-CNC-1.10.2-UPDATE-TEST.rbz",
-  "sha256": "9df983abd48e33cbff4ba4a59689bada0bc09e2e886bfed9e47674194938f37e",
-  "notes": "Bản UPDATE TEST 1.10.2. Đã sửa lỗi so sánh phiên bản Array; kiểm tra tự động cập nhật, xác thực lại User và giữ Key sau khi khởi động lại SketchUp."
+  "version": "1.10.3",
+  "download_url": "https://github.com/nguyenvietduc-cnc/NVD-CNC-TAO-VACH/releases/download/v1.10.3/NVD-CNC-1.0.rbz",
+  "sha256": "a37b527507ecfe87807d6dfbeda2f15d743d96238df55164d6e9677d4969a42f",
+  "notes": "Bản NVD-CNC-1.0. Giữ nguyên toàn bộ chức năng của bản trước. Kiểm tra cập nhật tự động từ GitHub."
 }
