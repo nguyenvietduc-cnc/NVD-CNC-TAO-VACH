@@ -1,8 +1,8 @@
 {
   "published": true,
   "channel": "stable",
-  "version": "20.10",
-  "download_url": "https://github.com/nguyenvietduc-cnc/NVD-CNC-TAO-VACH/releases/download/core-v20.10/NVD-CNC-20.10.rbz",
-  "sha256": "4eb39a5b55116ed9e43c6f6af9a93b9bd6c31ce1f4f19bdc36524fa496d5a2f7",
-  "notes": "NVD-CNC-20.10: tăng thời gian chờ HTTPS đăng nhập Key để tương thích tốt hơn với SketchUp 2024-2026; giữ nguyên chức năng tạo vách và giao diện."
+  "version": "20.11",
+  "download_url": "https://github.com/nguyenvietduc-cnc/NVD-CNC-TAO-VACH/releases/download/core-v20.11/NVD-CNC-20.11.rbz",
+  "sha256": "b43057582ceda42087ca5771b7a9d3e1549545564bfac1dd78b93ac02af6eeee",
+  "notes": "NVD-CNC-20.11: đồng bộ toàn bộ đường gọi Key về Edge Function root, tăng thời gian chờ để tương thích SketchUp 2024-2026; giữ nguyên chức năng tạo vách và Update Center."
 }
