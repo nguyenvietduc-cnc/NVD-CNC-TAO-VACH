@@ -1,0 +1,8 @@
+{
+  "published": true,
+  "channel": "stable",
+  "version": "2.0.1",
+  "download_url": "https://github.com/nguyenvietduc-cnc/NVD-CNC-TAO-VACH/releases/download/core-v2.0.1/NVD-CNC-CORE-2.0.1.rbz",
+  "sha256": "a90db522a0cdce16476523b80d620d903b6eb48571e6c81a6405a6e926e46643",
+  "notes": "Bản NVD-CNC-CORE 2.0.1. Kiểm tra hệ thống cập nhật mới, tách riêng Update Center và chống cài đặt lặp."
+}
