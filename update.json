@@ -1,8 +1,8 @@
 {
   "published": true,
   "channel": "stable",
-  "version": "1.10.3",
-  "download_url": "https://github.com/nguyenvietduc-cnc/NVD-CNC-TAO-VACH/releases/download/v1.10.3/NVD-CNC-1.0.rbz",
-  "sha256": "a37b527507ecfe87807d6dfbeda2f15d743d96238df55164d6e9677d4969a42f",
-  "notes": "Bản NVD-CNC-1.0. Giữ nguyên toàn bộ chức năng của bản trước. Kiểm tra cập nhật tự động từ GitHub."
+  "version": "1.10.3.1",
+  "download_url": "https://github.com/nguyenvietduc-cnc/NVD-CNC-TAO-VACH/releases/download/v1.10.3.1/NVD-CNC-1.10.3.1-STABLE-PACKAGE.rbz",
+  "sha256": "bdb0aab7223a374e9a00a07f033e3f502e64e5af6be948e7bbb0a7c55a4c7018",
+  "notes": "Bản NVD-CNC-1.10.3.1. Sửa vòng lặp cập nhật, chỉ cập nhật khi người dùng yêu cầu và không tự động cập nhật lại sau khi cài."
 }
