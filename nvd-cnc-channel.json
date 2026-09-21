@@ -1,8 +1,8 @@
 {
   "published": true,
   "channel": "stable",
-  "version": "210",
-  "download_url": "https://github.com/nguyenvietduc-cnc/NVD-CNC-TAO-VACH/releases/download/core-v210/NVD-CNC-210.rbz",
-  "sha256": "540db0a69b837f1ed0ce302d7e0b2c72144c7e1dd2cde000fac9a93b09466a17",
-  "notes": "NVD-CNC-210"
+  "version": "211",
+  "download_url": "https://github.com/nguyenvietduc-cnc/NVD-CNC-TAO-VACH/releases/download/core-v211/NVD-CNC-211.rbz",
+  "sha256": "53e3b7d3df266cdb3dd2f9b3d0b108fa9e0a8567785710408df041ef2d8ef9eb",
+  "notes": "NVD-CNC-211"
 }
