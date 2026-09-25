@@ -1,8 +1,8 @@
 {
   "published": true,
   "channel": "stable",
-  "version": "223",
-  "download_url": "https://github.com/nguyenvietduc-cnc/NVD-CNC-TAO-VACH/releases/download/core-v223/NVD-CNC-223.rbz",
-  "sha256": "e4f4b5e7f0fa7c53738638f28897e799400b8f47f42390f51227077b1f86a323",
-  "notes": "NVD-CNC-223"
+  "version": "224",
+  "download_url": "https://github.com/nguyenvietduc-cnc/NVD-CNC-TAO-VACH/releases/download/224/NVD-CNC-224.rbz",
+  "sha256": "f788d04e9615da22743c761320844915d87c1cca91e68fa992cb9c4b20b5a125",
+  "notes": "Update thêm mẫu mới vào mục 1 Tấm Nền\n\nCảm ơn quý anh chị đã ủng hộ và đồng hành cùng NVD-CNC trong thời gian vừa qua"
 }
