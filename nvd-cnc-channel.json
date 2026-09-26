@@ -1,8 +1,8 @@
 {
   "published": true,
   "channel": "stable",
-  "version": "224",
-  "download_url": "https://github.com/nguyenvietduc-cnc/NVD-CNC-TAO-VACH/releases/download/224/NVD-CNC-224.rbz",
-  "sha256": "f788d04e9615da22743c761320844915d87c1cca91e68fa992cb9c4b20b5a125",
-  "notes": "Update thêm mẫu mới vào mục 1 Tấm Nền\n\nCảm ơn quý anh chị đã ủng hộ và đồng hành cùng NVD-CNC trong thời gian vừa qua"
+  "version": "225",
+  "download_url": "https://github.com/nguyenvietduc-cnc/NVD-CNC-TAO-VACH/releases/download/225/NVD-CNC-225.rbz",
+  "sha256": "02110da70b2bf68ace2a3ef260fc9c923289d46b7b3efe8d020947d11ddd6f95",
+  "notes": "NVD-CNC-225\n\nCập nhật bản chính thức 225.\n- Giữ 220 mẫu Tấm nền.\n- Giữ ALL-LIBRARY-FIX cho SketchUp 2023.\n- Chuẩn hóa giao diện 4 màu NVD-CNC.\n- Cập nhật trạng thái lựa chọn và viền vàng.\n- Cân đối vách: Tâm và Tự do.\n- Mở rộng xử lý Chỉnh 4 cạnh cho khung lấy từ SketchUp.\n- Mở rộng Trang trí khung viền và thêm Viền Full.\n\nCảm ơn quý anh chị đã ủng hộ và đồng hành cùng NVD-CNC."
 }
