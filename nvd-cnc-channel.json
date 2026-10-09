@@ -1,8 +1,8 @@
 {
   "published": true,
   "channel": "stable",
-  "version": "226",
-  "download_url": "https://github.com/nguyenvietduc-cnc/NVD-CNC-TAO-VACH/releases/download/226/NVD-Tool-Vach-Tho-226.rbz",
-  "sha256": "cd2a5dc4ca2aa3ee701ef709f70ed0260a4c98fa03bb5cdcff4522769734b52c",
-  "notes": "NVD-Tool Vach Tho 226\n\nBản chính thức 226.\n- Giữ nguyên thuật toán hoạt động đã chốt.\n- Sử dụng lõi hoạt động của bản FIX23.\n- Cập nhật tên NVD-Tool Vach Tho.\n- Giữ hệ thống cập nhật tự động.\n- Từ bản 226 trở đi, khi có phiên bản mới sẽ tự thông báo tối đa trong 3 lần mở SketchUp."
+  "version": "227",
+  "download_url": "https://github.com/nguyenvietduc-cnc/NVD-CNC-TAO-VACH/releases/download/227/NVD-Tool-Vach-Tho-227.rbz",
+  "sha256": "da5566464b5a02d38d2e7346c51bb629b56e6eb08d42ce239997fdc8ed1db2d5",
+  "notes": "NVD-Tool Vach Tho 227\n\nBản chính thức 227.\n\nNỘI DUNG CẬP NHẬT\n- Sửa lỗi chức năng VÙNG TỰ DO.\n- Khi dùng giá trị cộng (+), chỉ phần hoa văn/nan nằm trong vùng khoanh được tăng bề rộng.\n- Khi dùng giá trị trừ (-), chỉ phần hoa văn/nan nằm trong vùng khoanh được giảm bề rộng.\n\nLỜI CẢM ƠN\n\nCảm ơn Anh/Chị đã luôn tin tưởng, sử dụng và đồng hành cùng NVD-Tool Vach Tho.\nMọi góp ý và phản hồi trong quá trình sử dụng đều giúp phần mềm ngày càng ổn định và hoàn thiện hơn."
 }
