@@ -2,8 +2,8 @@
 {
   "published": true,
   "channel": "stable",
-  "version": "229",
-  "download_url": "https://github.com/nguyenvietduc-cnc/NVD-CNC-TAO-VACH/releases/download/229/NVD-Tool-Vach-Tho-229.rbz",
-  "sha256": "db7d14ba763bc1d0475d208c4aa699d4331b570259b95ff5deaff049b792aebe",
-  "notes": "NVD-Tool Vách Thợ 229\n\nPHIÊN BẢN CHÍNH THỨC 229\n\nNỘI DUNG CẬP NHẬT\n- Tối ưu tốc độ tạo mẫu chức năng V.\n- Cải thiện nhận diện ảnh và đồng đều nan chức năng A.\n- Cải thiện hình xem trước Thư viện cá nhân và Thư viện cộng đồng.\n- Giữ nguyên hệ thống tài khoản, bảo mật và 515 mẫu gốc.\n\nLỜI CẢM ƠN\nNVD chân thành cảm ơn Anh/Chị đã luôn tin tưởng và đồng hành cùng NVD-Tool Vách Thợ.\n\nNVD — Nguyễn Việt Đức"
+  "version": "230",
+  "download_url": "https://github.com/nguyenvietduc-cnc/NVD-CNC-TAO-VACH/releases/download/230/NVD-Tool-Vach-Tho.230.rbz",
+  "sha256": "57abb2fe4f5391194623726d25ef7f5bf7ec84c0de72026d06ff744bc217343c",
+  "notes": "NVD-Tool Vách Thờ 230\n\nBổ sung công cụ L - Làm mịn hoa văn CNC.\nTăng/giảm độ rộng thanh nan Mục 1 và Mục 5.\nNâng cấp thư viện cộng đồng.\n\nNVD chân thành cảm ơn Quý Anh/Chị đã luôn tin tưởng và đồng hành."
 }
