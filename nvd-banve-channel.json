@@ -1,8 +1,10 @@
 {
-  "published": true,
-  "channel": "stable",
-  "version": "111",
-  "download_url": "https://github.com/nguyenvietduc-cnc/NVD-CNC-TAO-VACH/releases/download/banve-111/NVD-Tool-Ban-Ve-111.rbz",
-  "sha256": "94861cedc01fb3e9d476a3721cfa26ee32bbdced183665927ea1bd7270069f66",
-  "notes": "NVD-Tool Bản Vẽ 111 – Phiên bản chính thức\nNVD chân thành cảm ơn Quý Anh/Chị đã tin tưởng và đồng hành."
+    "published": true,
+    "channel": "stable",
+    "product": "nvd-tool-ban-ve",
+    "version": "112",
+    "download_url": "https://github.com/nguyenvietduc-cnc/NVD-CNC-TAO-VACH/releases/download/banve-112/NVD-Tool-Ban-Ve-112.rbz",
+    "sha256": "611084baf3b43f8309e27d46d8159ec24cb2486e09cb891ce4d7a9d31ec9e055",
+    "notes": "NVD-Tool Bản Vẽ 112. Bản cập nhật được ký số, mã nguồn giao diện được bảo vệ. Tài khoản, mật khẩu và quyền sử dụng của bạn không bị ảnh hưởng.",
+    "sig": "rVoC7m_F1cJ_nZCW9t0Auaj67gPrI5BBNL9bWg-oSelGP1s-705Sszi7D7Eok1DbiHLhYF1Ai5pkN0k1gqJfYQ"
 }
