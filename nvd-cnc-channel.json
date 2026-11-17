@@ -1,9 +1,8 @@
-
 {
   "published": true,
   "channel": "stable",
-  "version": "230",
-  "download_url": "https://github.com/nguyenvietduc-cnc/NVD-CNC-TAO-VACH/releases/download/230/NVD-Tool-Vach-Tho.230.rbz",
-  "sha256": "57abb2fe4f5391194623726d25ef7f5bf7ec84c0de72026d06ff744bc217343c",
-  "notes": "NVD-Tool Vách Thờ 230\n\nBổ sung công cụ L - Làm mịn hoa văn CNC.\nTăng/giảm độ rộng thanh nan Mục 1 và Mục 5.\nNâng cấp thư viện cộng đồng.\n\nNVD chân thành cảm ơn Quý Anh/Chị đã luôn tin tưởng và đồng hành."
+  "version": "231",
+  "download_url": "https://github.com/nguyenvietduc-cnc/NVD-CNC-TAO-VACH/releases/download/231/NVD-Tool-Vach-Tho-231.rbz",
+  "sha256": "89a0ff1fc1f82ef456652f7ebc9119d5155d83cdea1b4f4d01c746b12188afb7",
+  "notes": "NVD-Tool Vách Thờ 231 – Phiên bản chính thức\nNVD chân thành cảm ơn Quý Anh/Chị đã tin tưởng và đồng hành."
 }
