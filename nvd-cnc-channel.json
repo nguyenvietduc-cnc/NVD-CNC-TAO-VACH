@@ -1,8 +1,9 @@
 {
-  "published": true,
-  "channel": "stable",
-  "version": "231",
-  "download_url": "https://github.com/nguyenvietduc-cnc/NVD-CNC-TAO-VACH/releases/download/231/NVD-Tool-Vach-Tho-231.rbz",
-  "sha256": "89a0ff1fc1f82ef456652f7ebc9119d5155d83cdea1b4f4d01c746b12188afb7",
-  "notes": "NVD-Tool Vách Thờ 231 – Phiên bản chính thức\nNVD chân thành cảm ơn Quý Anh/Chị đã tin tưởng và đồng hành."
+    "published":  true,
+    "channel":  "stable",
+    "version":  "232",
+    "min_version":  "232",
+    "download_url":  "https://github.com/nguyenvietduc-cnc/NVD-CNC-TAO-VACH/releases/download/232/NVD-Tool-Vach-Tho-232.rbz",
+    "sha256":  "25793a37a24f57a591547a0b84b4e117d98668a9aca951a246dadb02365a1cb6",
+    "notes":  "NVD-Tool Vách Thờ 232 – Phiên bản chính thức\nNVD chân thành cảm ơn Quý Anh/Chị đã tin tưởng và đồng hành."
 }
