@@ -2,9 +2,9 @@
     "published": true,
     "channel": "stable",
     "product": "nvd-tool-ban-ve",
-    "version": "113",
-    "download_url": "https://github.com/nguyenvietduc-cnc/NVD-CNC-TAO-VACH/releases/download/banve-113/NVD-Tool-Ban-Ve-113.rbz",
-    "sha256": "6214421015ef6fb3b3ef7c0ec55c14391bdb0160f9fea0b13e5e93c519beb2b4",
-    "notes": "NVD-Tool Bản Vẽ 113. Tăng cường chống sao chép. Tài khoản, mật khẩu và quyền sử dụng của bạn không bị ảnh hưởng.",
-    "sig": "wyuqzpEgZM6SfN0duEOMFhdEquf8mP0R7jEO5GN7XNe3rPhqhSo-Oo9SYRcxa77wuCzRgCH3F8NramGrzBv95Q"
+    "version": "114",
+    "download_url": "https://github.com/nguyenvietduc-cnc/NVD-CNC-TAO-VACH/releases/download/banve-114/NVD-Tool-Ban-Ve-114.rbz",
+    "sha256": "50c416d6106e13e4086743ce46ad8e350e0bf35934ccc9b478d8fdd174260a27",
+    "notes": "NVD-Tool Bản Vẽ 114. Cải tiến dàn trang, DIM chi tiết, bản vẽ lắp ráp theo model. Tài khoản, mật khẩu và quyền sử dụng của bạn không bị ảnh hưởng.",
+    "sig": "JUJ8Heq6PDO_vhxs97ifJtT1p7akSTKV5IYwEcKvzFwzTQv3EhewGOrh9nr9LVd8OrrtMRyOJMzImhud6j7JmQ"
 }
