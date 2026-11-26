@@ -2,9 +2,10 @@
     "published": true,
     "channel": "stable",
     "product": "nvd-tool-ban-ve",
-    "version": "115",
-    "download_url": "https://github.com/nguyenvietduc-cnc/NVD-CNC-TAO-VACH/releases/download/banve-115/NVD-Tool-Ban-Ve-115.rbz",
-    "sha256": "8d1dc630926653d1559e66091159350364e05d9bd6e181c382af048de235fdc5",
-    "notes": "NVD-Tool Bản Vẽ 115. Thêm Đánh hướng cửa trong Dựng mặt bằng 2D, nhận thêm ảnh PNG trong Chuyển mặt bằng 2D. Tài khoản, mật khẩu và quyền sử dụng của bạn không bị ảnh hưởng.",
-    "sig": "JgyfEkNOXG4Wy4PT-LtUzTs2LRxqqapHb5LfyYU1G_h___hZLcQ43_KlMjk0aQucaUhtC5c6jkpuZ-z1GBn8XQ"
+    "version": "117",
+    "download_url": "https://github.com/nguyenvietduc-cnc/NVD-CNC-TAO-VACH/releases/download/banve-117/NVD-Tool-Ban-Ve-117.rbz",
+    "sha256": "e401ea6620b385b737c1cab05760050d06e503e080ed381a4827210431199c00",
+    "min_version": "117",
+    "notes": "Sửa lỗi Chọn model, bố cục bản vẽ sát viền, hiện số bản. Bản bắt buộc: bấm Yes để cài. Tài khoản không bị ảnh hưởng.",
+    "sig": "IVjCcbTmi-e4IeBNz5HoFaVCJT_CktT6FOUQum06dzyr4VJ5wyQmrPirUFGKU_rpJFICw2AmmbhInSsGAIHmpg"
 }
