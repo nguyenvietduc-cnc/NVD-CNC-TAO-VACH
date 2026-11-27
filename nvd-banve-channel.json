@@ -2,10 +2,10 @@
     "published": true,
     "channel": "stable",
     "product": "nvd-tool-ban-ve",
-    "version": "117",
-    "download_url": "https://github.com/nguyenvietduc-cnc/NVD-CNC-TAO-VACH/releases/download/banve-117/NVD-Tool-Ban-Ve-117.rbz",
-    "sha256": "e401ea6620b385b737c1cab05760050d06e503e080ed381a4827210431199c00",
-    "min_version": "117",
-    "notes": "Sửa lỗi Chọn model, bố cục bản vẽ sát viền, hiện số bản. Bản bắt buộc: bấm Yes để cài. Tài khoản không bị ảnh hưởng.",
-    "sig": "IVjCcbTmi-e4IeBNz5HoFaVCJT_CktT6FOUQum06dzyr4VJ5wyQmrPirUFGKU_rpJFICw2AmmbhInSsGAIHmpg"
+    "version": "118",
+    "download_url": "https://github.com/nguyenvietduc-cnc/NVD-CNC-TAO-VACH/releases/download/banve-118/NVD-Tool-Ban-Ve-118.rbz",
+    "sha256": "488cb2e22780eddd985e8a6a6fd48ecc5d76095ac21732d2b50676644d1a3e17",
+    "min_version": "118",
+    "notes": "Xuất PDF nhiều trang nhanh hơn, không treo SketchUp; hiện số trang và thời gian xuất. Bản bắt buộc: bấm YES để cài. Tài khoản không bị ảnh hưởng.",
+    "sig": "C_CSw5tR0GKGrwUgGtmpBK46-iv6XbP1dElXAmBkGbsR21L8-1MYnfiy6Ib4LJkjUZTIVHk2YVeDUrD3IJiS0w"
 }
