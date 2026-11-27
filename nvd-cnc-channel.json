@@ -1,9 +1,9 @@
 {
     "published":  true,
     "channel":  "stable",
-    "version":  "236",
-    "min_version":  "236",
-    "download_url":  "https://github.com/nguyenvietduc-cnc/NVD-CNC-TAO-VACH/releases/download/236/NVD-Tool-Vach-Tho-236.rbz",
-    "sha256":  "885fac76a29db4477cf7f97ba9b5a2898f1eb1a248b59625a02ba88a8374b77b",
-    "notes":  "NVD-Tool Vách Thờ 236 – Có gì mới:\n1. Thêm chức năng Bật layer (tấm liền, bào hạ nền) cho Tấm nền, Trang trí tấm nền, Trang trí viền đơn và Chuyển ảnh; tương thích ABF, tự nhớ tên layer gần nhất.\n2. Chuyển ảnh: nhận dạng ảnh mịn và chính xác hơn, đảo chiều Độ rộng tổng thể (số dương nan to ra, số âm nan nhỏ lại).\n3. Công cụ Làm mịn hoạt động được trên cả mặt rời.\n4. Tự nhớ mục đang làm và thiết kế gần nhất khi mở lại plugin.\n\nNVD chân thành cảm ơn Quý Anh/Chị đã tin tưởng và đồng hành."
+    "version":  "238",
+    "min_version":  "238",
+    "download_url":  "https://github.com/nguyenvietduc-cnc/NVD-CNC-TAO-VACH/releases/download/238/NVD-Tool-Vach-Tho-238.rbz",
+    "sha256":  "6c5f363832f8371b0714df17a62217aada666eaa027cf7804bc9b210ed6a681b",
+    "notes":  "THÔNG BÁO: Đã có bản cập nhật NVD-Tool Vách Thờ 238. Quý Anh/Chị vui lòng cập nhật để sử dụng bản mới nhất.\n\nNVD chân thành cảm ơn Quý Anh/Chị đã tin tưởng và đồng hành."
 }
