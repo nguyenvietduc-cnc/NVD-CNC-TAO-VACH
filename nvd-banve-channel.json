@@ -2,10 +2,10 @@
     "published": true,
     "channel": "stable",
     "product": "nvd-tool-ban-ve",
-    "version": "118",
-    "download_url": "https://github.com/nguyenvietduc-cnc/NVD-CNC-TAO-VACH/releases/download/banve-118/NVD-Tool-Ban-Ve-118.rbz",
-    "sha256": "488cb2e22780eddd985e8a6a6fd48ecc5d76095ac21732d2b50676644d1a3e17",
-    "min_version": "118",
-    "notes": "Xuất PDF nhiều trang nhanh hơn, không treo SketchUp; hiện số trang và thời gian xuất. Bản bắt buộc: bấm YES để cài. Tài khoản không bị ảnh hưởng.",
-    "sig": "C_CSw5tR0GKGrwUgGtmpBK46-iv6XbP1dElXAmBkGbsR21L8-1MYnfiy6Ib4LJkjUZTIVHk2YVeDUrD3IJiS0w"
+    "version": "119",
+    "download_url": "https://github.com/nguyenvietduc-cnc/NVD-CNC-TAO-VACH/releases/download/banve-119/NVD-Tool-Ban-Ve-119.rbz",
+    "sha256": "183f4397fb3896e606e432996c0fac0a71ce069e23f7bcd9c49fcd6ef5478641",
+    "min_version": "119",
+    "notes": "Xuất PDF nhanh và nhẹ hơn nhiều, lắp ráp chọn nhiều trang / hình để chỉnh cùng lúc, lăn chuột nhảy trang, Quét DIM mặt cắt đúng khoang. Bản bắt buộc: bấm YES để cài. Tài khoản không bị ảnh hưởng.",
+    "sig": "eKXovOkBRqqh_IFSm7f4eRZA33cwldoMxbDJfuGhzJmhYsQ8h4_Cb3_XS1Sup91ltfU7MCXQY3Ad1wsDkoKrpA"
 }
